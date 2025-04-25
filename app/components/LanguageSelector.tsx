@@ -1,3 +1,4 @@
+'use client'
 import React from 'react';
 import { Button } from '@/app/components/ui/button';
 import { Globe } from 'lucide-react';

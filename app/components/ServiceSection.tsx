@@ -1,3 +1,4 @@
+'use client'
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Code, Server, Database, Cloud, CheckCircle } from 'lucide-react';
